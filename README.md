@@ -1,4 +1,4 @@
-### Quién quiere ser millonario?
+### ¿Quién quiere ser millonario?
 
 ### *Who wants to be millonarie?*
 
@@ -13,7 +13,7 @@ Es necesario registrarse e iniciar sesión para empezar a jugar
 *You have to register and login to start playing*
 
 
-### vista previa 
+### Vista previa 
 
 ### *Preview*
 --------------------------------------------
